@@ -1,5 +1,5 @@
-mod advent_2015;
+mod aoc2024;
 
 fn main() {
-    advent_2015::day6::execute()
+    aoc2024::d1::execute();
 }
